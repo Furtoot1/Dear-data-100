@@ -10,7 +10,7 @@ and how many interactions happened in that window. Logged consistently across
 the week to build toward 100+ observations.
 
 ## Sketch
-sketch contains the Processing sketch that visualises the data.
+Sketch contains the Processing sketch that visualises the data.
 - For creativity, i plan to use paws for the foundation of my data, having each claw differ in size depending on the number of interactions on the weekday
 
 ## Progress
