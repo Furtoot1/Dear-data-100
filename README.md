@@ -12,6 +12,8 @@ the week to build toward 100+ observations.
 ## Sketch
 Sketch contains the Processing sketch that visualises the data.
 - For creativity, i plan to use paws for the foundation of my data, having each claw differ in size depending on the number of interactions on the weekday
+- Currently, I am using a bar chart on proccessing.org which shows the the days including weekends in which i have interacted with my cats
+  
 
 ## Progress
 - Week 1: initial data collection + basic bar chart structure
